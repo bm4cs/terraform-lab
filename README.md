@@ -214,4 +214,3 @@ After `terraform apply`, you need to:
    - `/{env}/service/postgres-url`
 2. **Push a container image** to ECR tagged with the environment name
 3. **Configure OAuth** redirect URL with the CloudFront distribution domain
-# terraform-lab

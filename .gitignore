@@ -1,0 +1,13 @@
+*.tfplan
+.terraform
+overrides.txt
+
+# IDE-specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# env file
+.env
